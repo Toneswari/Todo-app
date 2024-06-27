@@ -1,0 +1,25 @@
+.items{
+
+    width:500px;
+    color:#353935;
+    font-size: 20px;
+    margin:0 auto;
+}
+.itemName{
+    font-weight: bold;
+    padding:20px;
+}
+.line{
+    border:1px solid #f4f4f4;
+}
+.mybutton{
+    float: right;
+    margin-bottom:-5px;
+    color:#ffff;
+    background-color: #f7ca18;
+    padding:12px 20px;
+    border:none;
+    border-radius:4px;
+    cursor: pointer;
+
+}
